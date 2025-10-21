@@ -94,3 +94,4 @@ control
 All commands you can find [here](src/keys.ts)
 
 All popular apps you can find [here](src/apps.ts)
+# samsung-tv-control
