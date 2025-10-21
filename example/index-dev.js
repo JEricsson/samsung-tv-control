@@ -7,8 +7,8 @@ import { $enum } from 'ts-enum-util'
 
 const config = {
   debug: true, // Default: false
-  ip: '192.168.1.2',
-  mac: '123456789ABC',
+  ip: '192.168.1.3',
+  mac: 'F8:4E:58:8D:41:E6',
   nameApp: 'NodeJS-Test', // Default: NodeJS
   saveToken: true,
 }
